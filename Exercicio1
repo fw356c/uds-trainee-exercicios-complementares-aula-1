@@ -1,0 +1,14 @@
+Variável é uma região de memória reservada para armazenar valores de modo temporário.
+Carregamos para a memórias as informações que estamos trabalhando em determinado momento porém, sem remove-las do local de origem.
+
+Em Java, todas as variáveis possuiram um tipo e este será definido ainda na declaração. Podemos alterar o valor armazenado numa variável a qualquer momento, porém, o tipo declarado não poderá ser alterado durante o tempo de execução.
+Mais precisamente, as variáveis são carregadas para a memória RAM (Random Access Memory) devido a alta velocidade na leitura e gravação dessa mídia.
+Como já dito, variáveis armazenam valores temporários, no caso, os valores que está sendo manipulando em determinado momento.
+A memória RAM possui alto desempenho na leitura e gravação, por isso definimos as variáveis ali, no entanto, quando o computador for desligado ou então, houver interrupção no fornecimento de energia, todo valor alocado na memória RAM é perdido de maneira irreversível.
+
+Não há limites na declaração de variáveis, logo, somos livres para definirmos a quantidade necessário, no entanto, devemos ser cautelosos, até porque, cada variável declarada irá consumir recursos do dispositivo e pode
+prejudicar o desempenho de outras aplicações.
+
+O Java reservará espaço a cada variável individualmente e, associa a esta região de memória o nome que definido, ou seja, a referência.
+Temos assim que, a localização do espaço de memória será feito por intermédio da referência (nome da variável) definida em nossos códigos. A partir do momento em que não fizermos mais uso de determinada variável,
+a JVM desalocará o espaço utilizado pela variável devolvendo-o ao sistema operacional.
