@@ -16,6 +16,7 @@ Temos assim que, a localização do espaço de memória será feito por intermé
 a JVM desalocará o espaço utilizado pela variável devolvendo-o ao sistema operacional.
 
 ##Exercicio 02
+
 Syntax (ou Sintaxe) representa toda a estrutura de linguagem aplicada incluindo todos os elementos utilizáveis.
 
 um bom exemplo de Sintaxe, são as diferenças presentes nos idiomas onde a sintaxe representa o modo correto de escrita
@@ -23,6 +24,7 @@ para que se faça entender de modo correto e preciso,o mesmo raciocínio se apli
 
 
 ##Exercicio 03
+
 import java.util.Scanner;
 
 class Main {
@@ -52,6 +54,7 @@ class Main {
 
 ##Exercicio 04
 
+
 import java.util.Scanner;
 
 class Main {
@@ -78,9 +81,12 @@ class Main {
 
         }
         
-        ##Exercicio 05
+       
+       
         
-        
+##Exercicio 05
+
+
 import java.util.Scanner;
 
 class Main {
